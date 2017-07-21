@@ -81,4 +81,4 @@ Access the webui at `<your-ip>:5299/home`, for more information check out [LazyL
 
 ## Versions
 
-+ **21.07.16:** Inital Release.
++ **21.07.17:** Inital Release.
