@@ -63,6 +63,8 @@ In this instance `PUID=1001` and `PGID=1001`. To find yours use `id user` as bel
 ```
 
 ## Setting up the application
+`IMPORTANT... THIS IS THE ARM64 VERSION`
+
 Access the webui at `<your-ip>:5299/home`, for more information check out [LazyLibrarian][appurl]..
 
 ## Info
