@@ -1,0 +1,14 @@
+#!/usr/bin/with-contenv bash
+
+# make folders
+mkdir -p \
+	/config/log
+
+# copy config
+[[ ! -e /config/config.ini ]] && \
+	cp /defaults/config.ini /config/config.ini
+
+# permissions
+chown abc:abc -R \
+	/config \
+	/app
